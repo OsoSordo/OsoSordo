@@ -4,4 +4,4 @@ My cybersecurity expertise was developed organically over a decade of **strategi
 
 I bring two core strengths to this field: first, my advanced **business acumen** and **Governance, Risk, and Compliance (GRC)**, which allows me to effectively translate security challenges into actionable business strategies. Second, my **practical incident response** and **problem-solving** skills, evidenced by my proven ability to mitigate real-world security incidents under pressure.
 
-To gain **hands-on technical proficiency**, I am committed to a rigorous professional development plan. I am completing the Google Cybersecurity coursework before preparing for and taking the **CompTIA Security+ exam**, which will solidify my technical skills and make me a well-rounded Cybersecurity Analyst.
+To gain **hands-on technical proficiency**, I am committed to a rigorous professional development plan. I am completing the Google Cybersecurity Professional coursework before preparing for and taking the **CompTIA Security+ exam**, which will solidify my technical skills and make me a well-rounded Cybersecurity Analyst.
